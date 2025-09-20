@@ -113,8 +113,6 @@ The project includes a powerful visualization system that can display:
 - Novelty search metrics
 - Multi-objective optimization fronts
 
-![Visualization Demo](docs/images/neat_visualization.png)
-
 ## 🧪 Examples
 
 ### XOR Problem
