@@ -1,7 +1,6 @@
 # NEAT (NeuroEvolution of Augmenting Topologies) in C
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/boyyey/evolutionary-neural-hardware/actions/workflows/build.yml/badge.svg)](https://github.com/boyyey/evolutionary-neural-hardware/actions)
 [![Code Coverage](https://codecov.io/gh/boyyey/evolutionary-neural-hardware/branch/main/graph/badge.svg)](https://codecov.io/gh/boyyey/evolutionary-neural-hardware)
 
 A high-performance, feature-rich implementation of the NeuroEvolution of Augmenting Topologies (NEAT) algorithm in pure C, designed for both research and production use.
