@@ -203,9 +203,7 @@ Performance benchmarks are available in the `benchmarks` directory. To run them:
 make bench
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
+---
 
 ## 📄 License
 
@@ -221,5 +219,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>Made with ❤️ and C</p>
-  <p>© 2023 NEAT-C Contributors</p>
+  <p>© boyyey</p>
 </div>
